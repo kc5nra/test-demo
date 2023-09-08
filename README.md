@@ -1,5 +1,5 @@
 ## Install
-Build libobs yourself or use this [prebuilt version 27.5.32](https://obsstudios3.streamlabs.com/libobs-windows64-release-27.5.32.7z) provided by Streamlabs.
+Build libobs yourself or use this [prebuilt version 27.5.32](https://obsstudios3.streamlabs.com/libobs-windows64-release-27.5.32.7z)
 
 If you are using the prebuilt version, this is what the file structure should (roughly) look like after you unzip:
 ```
